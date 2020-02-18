@@ -1,0 +1,23 @@
+{
+    "name": "probability-solver",
+    "description": "A Opensource kahootbotter",
+    "version": "1.0.6",
+    "main": "index.js",
+    "author": "Github: OoDone",
+       "publishConfig": {
+       "access": "public"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JE5143/KahootBotter/issues"
+    },
+    "homepage": "https://github.com/JE5143/KahootBotter"
+}
